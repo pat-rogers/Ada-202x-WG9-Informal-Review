@@ -5,7 +5,7 @@ We are requesting the following kinds of comments:
 
   * Formatting issues, typos, grammatical errors, or ambiguous or unclear wording. Semantic issues can be raised and are always of interest, but only problems with simple fixes will be handled at this point in the process. (Suggestions for simple fixes are welcome.) As there are always some issues remaining in every Standard, more complex issues will be deferred to a future Corrigendum or Revision. We are also not at this stage looking for arguments in favor of, or opposed to, particular features. We are taking the feature set of Ada 202x as a given at this point. 
 
-  * For National Body representatives, anything in the text that would cause you to request technical changes when SC 22 holds their official ballot. ***Please be aware that such a request would significantly delay ISO adoption and publication of the standard.***
+  * For National Body representatives, anything in the text that would cause you to request technical changes when SC 22 holds their official ballot. ***Please be aware that such a request would significantly delay ISO adoption and publication of the standard.*** Let's get those resolved now.
 
 We are using the "Issues" interface to submit comments. Individual comments are to be submitted as individual issues, one comment per Issue, with a title indicating the relevant RM paragraph number and comment topic.
 
@@ -18,7 +18,7 @@ To submit a new comment, first locate the "Issues" tab in the upper left of the 
 
 A new page will be shown, listing all the open issues (comments). 
 
-At the far right on the page is a green Button with the label "New issue" inside it. Press that button. 
+At the far right on the page is a green button with the label "New issue" inside it. Press that button. 
 
 The page content will change to present an interface for entering the title and text of your comment. 
 
