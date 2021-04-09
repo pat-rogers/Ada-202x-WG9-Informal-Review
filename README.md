@@ -9,7 +9,7 @@ We are requesting the following kinds of comments:
 
 We are using the "Issues" interface to submit comments. Individual comments are to be submitted as individual issues, one comment per Issue, with a title indicating the relevant RM paragraph number and comment topic.
 
-**NOTE : You will need a GitHub account to do this. Accounts are easy to set up and cost-free.** If you don't already have an account, go to https://github.com/ in your favorite browser, press the "Sign up" (not "Sign in") button at the far right, and then fill out the requested fields. Don't select anything that isn't free.
+**NOTE : You will need a GitHub account to submit initial comments (issues) and to discuss them. Accounts are easy to set up and cost-free.** If you don't already have an account, go to https://github.com/ in your favorite browser, press the "Sign up" (not "Sign in") button at the far right, and then fill out the requested fields. Don't select anything that isn't free.
 
 How To Submit
 -------------
