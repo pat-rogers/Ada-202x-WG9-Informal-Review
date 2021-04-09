@@ -11,6 +11,11 @@ We are using the "Issues" interface to submit comments. Individual comments are 
 
 **NOTE : You will need a GitHub account to submit initial comments (issues) and to discuss them. Accounts are easy to set up and cost-free.** If you don't already have an account, go to https://github.com/ in your favorite browser, press the "Sign up" (not "Sign in") button at the far right, and then fill out the requested fields. Don't select anything that isn't free.
 
+When To Submit
+--------------
+
+The window for submitting comments opened 29 March and closes 21 May 2021. Please don't wait until the last minute to submit so that your comments can be adequately addressed.
+
 How To Submit
 -------------
 
@@ -33,6 +38,17 @@ When ready, press the green "Submit new issue" button at the lower right.
 Note that you can use an external text editor to create the text of your comment, if preferred, and then either copy the text from there into the issue's "Write" text pane.
 
 That's it!
+
+How To Discuss Previously-Submitted Comments
+--------------------------------------------
+
+Once an "issue" is in place at the GitHub project, you can discuss it by adding a GitHub comment on it, and reply to comments, and so on. 
+
+Please use this mechanism, rather than the WG 9 list, for discussions since they will be tracked. And you'll get notifications whenever an issue is commented upon or changed.
+
+To do so, use the "Issues" tab to select the issue in question. To select one, just click on the desired entry's title in the list of all issues. As you move the mouse cursor over the list if issues, individual entries will turn blue when that one is active for selection.
+
+Selecting one will open a page specific to that issue. Below the last comment on that issue will be a new text box. You may need to scroll down to see it. Enter your reply to the issue, or to any previous reply on that issue, using that text box. Then press the green "Comment" button to the lower right.
 
 Comment Status
 --------------
