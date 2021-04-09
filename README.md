@@ -64,8 +64,8 @@ Reviewer Assignments
 * Niklas : 7 - 9.11
 * Brad : 10 - 13.11.6
 * Joyce : 13.12 - A.11
-* John : A.18 - A.18.33
 * Tullio : A.12 - A.17.1; A.19; Annex B
+* John : A.18 - A.18.33
 * Pat : Annexes C & D
 * Tuck : 3.10 - 3.10.2; Annex E - end 
 
