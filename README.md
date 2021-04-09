@@ -54,3 +54,18 @@ Comment Status
 --------------
 
 When you consider a comment sufficiently answered (for those that should be answered) you can close the issue. Use the same starting approach to go to the Issues page, and then find the specific comment. Press the Green "Close" button.
+
+Reviewer Assignments
+--------------------
+
+* Jeff : start - 3.9.4
+* Steve : 3.11 - 4.10
+* Johann : 5 - 6.8
+* Niklas : 7 - 9.11
+* Brad : 10 - 13.11.6
+* Joyce : 13.12 - A.11
+* John : A.18 - A.18.33
+* Tullio : A.12 - A.17.1; A.10; Annex B
+* Pat : Annexes C & D
+* Tuck : 3.10 - 3.10.2; Annex E - end 
+
