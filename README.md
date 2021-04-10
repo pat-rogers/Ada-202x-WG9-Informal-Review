@@ -46,7 +46,7 @@ Once an "issue" is in place at the GitHub project, you can discuss it by adding 
 
 Please use this mechanism, rather than the WG 9 list, for discussions since they will be tracked. And you'll get notifications whenever an issue is commented upon or changed.
 
-To do so, use the "Issues" tab to select the issue in question. To select one, just click on the desired entry's title in the list of all issues. As you move the mouse cursor over the list if issues, individual entries will turn blue when that one is active for selection.
+To do so, use the "Issues" tab to select the issue in question. To select one, just click on the desired entry's title in the list of all issues. As you move the mouse cursor over the list of issues, individual entries will turn blue when that one is active for selection.
 
 Selecting one will open a page specific to that issue. Below the last comment on that issue will be a new text box. You may need to scroll down to see it. Enter your reply to the issue, or to any previous reply on that issue, using that text box. Then press the green "Comment" button to the lower right.
 
