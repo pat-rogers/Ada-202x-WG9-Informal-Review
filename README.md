@@ -35,7 +35,7 @@ Editing is supported within the text box. You can use the formatting toolbar jus
 
 When ready, press the green "Submit new issue" button at the lower right.
 
-Note that you can use an external text editor to create the text of your comment, if preferred, and then either copy the text from there into the issue's "Write" text pane.
+Note that you can use an external text editor to create the text of your comment, if preferred, and then copy the text from there into the issue's "Write" text pane.
 
 That's it!
 
