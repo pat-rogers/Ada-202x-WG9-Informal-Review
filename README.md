@@ -19,7 +19,7 @@ The window for submitting comments opened 29 March and closes 21 May 2021. Pleas
 How To Submit
 -------------
 
-To submit a new comment, first log in to your account. Next, locate the "Issues" tab in the upper left of the page, between the "<> Code" tab and the "Pull requests" tab. Press the "Issues" tab.
+To submit a new comment, first log in to your account if you've not already done so. Next, locate the "Issues" tab in the upper left of the page, between the "<> Code" tab and the "Pull requests" tab. Press the "Issues" tab.
 
 A new page will be shown, listing all the open issues (comments). 
 
