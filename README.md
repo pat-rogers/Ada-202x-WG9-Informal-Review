@@ -19,7 +19,7 @@ The window for submitting comments opened 29 March and closes 21 May 2021. Pleas
 How To Submit
 -------------
 
-To submit a new comment, first locate the "Issues" tab in the upper left of the page, between the "<> Code" tab and the "Pull requests" tab. Press the "Issues" tab.
+To submit a new comment, first log in to your account. Next, locate the "Issues" tab in the upper left of the page, between the "<> Code" tab and the "Pull requests" tab. Press the "Issues" tab.
 
 A new page will be shown, listing all the open issues (comments). 
 
@@ -27,7 +27,7 @@ At the far right on the page is a green button with the label "New issue" inside
 
 The page content will change to present an interface for entering the title and text of your comment. 
 
-In the "Title" pane, enter the subject RM paragraph number and a brief descriptive topic. The description will help distinguish among comments about the same RM paragraph.
+In the "Title" pane, enter the subject RM paragraph number followed by a brief descriptive topic. The description will help distinguish among comments about the same RM paragraph.
 
 Below the Title pane is the large text pane with a tab labeled "Write", with "Leave a comment" as a gray prompt indicating that the text of your comment goes there. Enter the text of the comment about the paragraph number referenced in the title.
 
