@@ -50,11 +50,6 @@ To do so, use the "Issues" tab to select the issue in question. To select one, j
 
 Selecting one will open a page specific to that issue. Below the last comment on that issue will be a new text box. You may need to scroll down to see it. Enter your reply to the issue, or to any previous reply on that issue, using that text box. Then press the green "Comment" button to the lower right.
 
-Comment Status
---------------
-
-When you consider a comment sufficiently answered (for those that should be answered) you can close the issue. Use the same starting approach to go to the Issues page, and then find the specific comment. Press the Green "Close" button.
-
 Reviewer Assignments
 --------------------
 
