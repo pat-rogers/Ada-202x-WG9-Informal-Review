@@ -54,13 +54,12 @@ Reviewer Assignments
 --------------------
 
 * Jeff : start - 3.9.4
-* Steve : 3.11 - 4.10
+* Steve : 3.11 - 4.10; A.12 - A.15
 * Johann : 5 - 6.8
 * Niklas : 7 - 9.11
 * Brad : 10 - 13.11.6
 * Joyce : 13.12 - A.11
-* Tullio : A.12 - A.17.1; 
 * John : A.18 - A.18.33
 * Pat : Annexes B, C, and D
-* Tuck : 3.10 - 3.10.2; A.19; Annex E - end 
+* Tuck : 3.10 - 3.10.2; A.16, A.17.1, A.19; Annex E - end 
 
